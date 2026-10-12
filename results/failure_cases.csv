@@ -1,0 +1,9 @@
+test_index,file,ground_truth,prediction,confidence
+127,data/oxford-iiit-pet/images/Abyssinian_101.jpg,Abyssinian,Bengal,0.9780802726745605
+74,data/oxford-iiit-pet/images/boxer_2.jpg,Boxer,American Bulldog,0.9695679545402527
+182,data/oxford-iiit-pet/images/american_bulldog_164.jpg,American Bulldog,Boxer,0.9546536207199097
+175,data/oxford-iiit-pet/images/Abyssinian_90.jpg,Abyssinian,Bengal,0.8609452247619629
+98,data/oxford-iiit-pet/images/Abyssinian_221.jpg,Abyssinian,Bengal,0.824315071105957
+55,data/oxford-iiit-pet/images/British_Shorthair_230.jpg,British Shorthair,Bombay,0.7922545075416565
+198,data/oxford-iiit-pet/images/Bengal_143.jpg,Bengal,Abyssinian,0.7678233981132507
+48,data/oxford-iiit-pet/images/beagle_64.jpg,Beagle,American Bulldog,0.7279593348503113
